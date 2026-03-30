@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;SQL+Python+Power+BI;PL-300+%26+DP-700+Certified)
+
 ## Hi there 👋 I'M JEEVAN S J! I'M SO GLAD THAT YOU ARE HERE!
 
 💡 Welcome to my GitHub profile  
