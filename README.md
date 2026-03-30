@@ -16,11 +16,6 @@
 - Python Project
 - Python Libraries
 
-## 📚 Learning
-- Azure (DP-700)
-- PL-300(Microsoft PowerBI)
-
----
 
 ## ⚙️ Tech Stack
 
