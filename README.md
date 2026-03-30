@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;SQL+Python+Power+BI;PL-300+%26+DP-700+Certified)
 ## Hi there 👋 I'M JEEVAN S J! I'M SO GLAD THAT YOU ARE HERE!
-![Visitors](https://komarev.com/ghpvc/?username=jeevansj2116)
+
 💡 Welcome to my GitHub profile  
 🚀 Passionate about Data Analytics & Tech  
 
@@ -15,7 +15,6 @@
 - Excel project
 - Python Project
 - Python Libraries
-- 
 ## 🚀 Projects
 
 ### 📊 Sales Dashboard (Power BI)
