@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'M JEEVAN S J! I'M SO GLAD THAT YOU ARE HERE!
 
-<!--
-**jeevansj2116/jeevansj2116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Welcome to my GitHub profile  
+🚀 Passionate about Data Analytics & Tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+- 📊 Power BI dashboards
+- 🧹 Data Cleaning (SQL + Python)
+- 📈 KPI Analysis Projects
+- Domain Project (SQL+PowerBI)
+-Tableau Dashboard Projects
+-Excel project
+-Python Project
+-Python Libraries 
+---
+
+## 📚 Learning
+- Azure (DP-700)
+- PL-300(Microsoft PowerBI)
+
+---
+
+## ⚙️ Tech Stack
+- SQL
+- Python
+- Power BI
+- Excel
+- Azure
+- Tableau
+- Numpy
+- Pandas
+- MatplotLib
+- SeaBorn
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jeevansj2116&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansj2116&layout=compact)
