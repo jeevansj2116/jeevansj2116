@@ -10,11 +10,11 @@
 - 📊 Power BI dashboards
 - 🧹 Data Cleaning (SQL + Python)
 - 📈 KPI Analysis Projects
-- Domain Project (SQL+PowerBI)
-- Tableau Dashboard Projects
-- Excel project
-- Python Project
-- Python Libraries
+- 🗄️ Domain Project (SQL + Power BI)  
+- 📊 Tableau Dashboard Projects  
+- 📗 Excel Project  
+- 🐍 Python Project  
+- 📚 Python Libraries  
 
 
 ## ⚙️ Tech Stack
