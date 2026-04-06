@@ -7,15 +7,15 @@
 ---
 
 ## 🔧 Projects
+- 🐍 Python Project  
+- 📚 Python Libraries 
 - 📊 Power BI dashboards
 - 🧹 Data Cleaning (SQL + Python)
 - 📈 KPI Analysis Projects
 - 🗄️ Domain Project (SQL + Power BI)  
 - 📊 Tableau Dashboard Projects  
-- 📗 Excel Project  
-- 🐍 Python Project  
-- 📚 Python Libraries  
-
+- 📗 Excel Project
+- 
 
 ## ⚙️ Tech Stack
 
