@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'M JEEVAN S J! I'M SO GLAD THAT YOU ARE HERE!
+## Hi👋 I'M JEEVAN S J! WELCOME TO MY GITHUB!
 
 💡 Welcome to my GitHub profile  
 🚀 Passionate about Data Analytics & Tech  
