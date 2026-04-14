@@ -15,7 +15,8 @@
 - 🗄️ Domain Project (SQL + Power BI)  
 - 📊 Tableau Dashboard Projects  
 - 📗 Excel Project
-- 
+- 🔗 LinkedIn: [in/jeevansj](https://www.linkedin.com/in/jeevan-sj)
+
 
 ## ⚙️ Tech Stack
 
