@@ -34,15 +34,10 @@
 ### 📊 Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 
-### ☁️ Cloud
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure)
-
 - SQL
 - Python
 - Power BI
 - Excel
-- Azure
-- Tableau
 - Numpy
 - Pandas
 - MatplotLib
