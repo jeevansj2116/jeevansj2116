@@ -35,6 +35,10 @@
 - Pandas
 - MatplotLib
 - SeaBorn
+- Machine Learning
+- Business Intelligence
+- AI-ML
+- 
 
 ## 🔧 Projects
 - 🐍 Python Project  
